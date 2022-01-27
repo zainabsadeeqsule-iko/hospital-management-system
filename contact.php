@@ -16,7 +16,7 @@ if (isset($_POST['submit'])) {
 <html>
 
 <head>
-	<title>HMS | Contact us</title>
+	<title>Zainabs' Hospital Management System | Contact us</title>
 	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 	<link href='http://fonts.googleapis.com/css?family=Ropa+Sans' rel='stylesheet' type='text/css'>
 </head>
@@ -29,7 +29,7 @@ if (isset($_POST['submit'])) {
 		<div class="wrap">
 			<!--start-logo-->
 			<div class="logo">
-				<a href="index.html" style="font-size: 30px;">Hospital Management system</a>
+				<a href="index.html" style="font-size: 30px;">Zainabs' Hospital Management System</a>
 			</div>
 			<!--end-logo-->
 			<!--start-top-nav-->
@@ -53,12 +53,10 @@ if (isset($_POST['submit'])) {
 
 					<div class="company_address">
 						<h2>Hospital Address :</h2>
-						<p>500 Lorem Ipsum Dolor Sit,</p>
-						<p>22-56-2-9 Sit Amet, Lorem,</p>
-						<p>India</p>
-						<p>Phone:(00) 222 666 444</p>
-						<p>Fax: (000) 000 00 00 0</p>
-						<p>Email: <span>info@mycompany.com</span></p>
+						<p>3rd avenue, Gwarinpa Abuja</p>
+						<p>Nigeria</p>
+						<p>Phone:(+234)902 744 4478 </p>
+						<p>Email: <span>zainabsadeeq78@gmail.com</span></p>
 
 					</div>
 				</div>
